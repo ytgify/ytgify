@@ -1,5 +1,9 @@
 # YTgify Chrome Extension
 
+- [Chrome setup](https://ytgify.com/#install) — Install the ZIP manually and make GIFs inside the YouTube player.
+- [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/ytgify-for-firefox/) — Get YTgify for Firefox from Mozilla Add-ons.
+- [Convert a local video](https://ytgify.com/video-to-gif) — Turn a video file into a GIF in your browser without installing an extension.
+
 > **⚠️ Important Notice: Removed from Chrome Web Store**
 >
 > After 8 months in the Chrome Web Store and being a featured extension for 4 months, Google has removed YTgify for violating their terms of service regarding the transformation of YouTube video frames into GIFs.
