@@ -18,6 +18,12 @@ export default function Home() {
             <h2 className="text-4xl sm:text-5xl font-bold text-white">YTgify</h2>
           </div>
 
+          <nav aria-label="Current YTgify links" className="mb-8 flex flex-wrap justify-center gap-x-5 gap-y-2 text-sm">
+            <a href="https://ytgify.com/#install" className="text-blue-300 underline">Chrome setup</a>
+            <a href="https://addons.mozilla.org/en-US/firefox/addon/ytgify-for-firefox/" className="text-blue-300 underline">Firefox add-on</a>
+            <a href="https://ytgify.com/video-to-gif" className="text-blue-300 underline">Convert a local video</a>
+          </nav>
+
           {/* Discontinuation Notice and Local Install Instructions */}
           <DiscontinuationNotice />
 
@@ -42,7 +48,7 @@ export default function Home() {
           {/* Benefit Callout */}
           <div className="text-center mb-16 py-6 px-4 rounded-lg bg-gray-900/50 border border-gray-800">
             <p className="text-lg text-white font-semibold mb-1">Your first GIF in under 30 seconds.</p>
-            <p className="text-gray-400">No account needed. No software to download. Works right inside YouTube.</p>
+            <p className="text-gray-400">No account needed. The Chrome extension works right inside YouTube after manual installation.</p>
           </div>
 
           {/* Features and Video - Single Section */}
